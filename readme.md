@@ -1,7 +1,9 @@
 
 # Container
 
-In this project, I implemented the following containers:
+A container is a holder object that stores a collection of other objects (its elements). They are implemented as class templates, which allows great flexibility in the types supported as elements.
+The container manages the storage space for its elements and provides member functions to access them, either directly or through iterators (reference objects with similar properties to pointers).
+To better understand how a Container works, I reimplemented from scratch some of them:
 
 - vector
 - map (Red-Black tree)
