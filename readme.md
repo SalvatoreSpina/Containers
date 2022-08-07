@@ -50,7 +50,7 @@ Something we need to do for the Reverse Iterator is reverse the iterator sense. 
 
 #### Bidirectional Iterator
 
-We need to define the + and - operators in all their forms, with the correct iteration (so, not reversed like the reverse!), other than basic operators like * and **->**
+We need to define the ++ and -- operators, with the correct iteration (so, not reversed like the reverse), other than basic operators like * and **->**
 
 #### Random Access Iterator
 
