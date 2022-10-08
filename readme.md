@@ -1,9 +1,13 @@
+# About
 
-# Container
+I love competitive programming and coding challenges and I love C++. That exposed my to the Containers and the STL. So, why not reimplent them from scratch to fully understand how they are coded, and every possible advantage and disadvantage?
+
+## What is a Container?
 
 A container is a holder object that stores a collection of other objects (its elements). They are implemented as class templates, which allows great flexibility in the types supported as elements.
 The container manages the storage space for its elements and provides member functions to access them, either directly or through iterators (reference objects with similar properties to pointers).
-To better understand how a Container works, I reimplemented from scratch some of them:
+
+## What did I implement?
 
 - vector
 - map (Red-Black tree)
